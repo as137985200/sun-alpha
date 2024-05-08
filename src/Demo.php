@@ -10,6 +10,6 @@ class Demo
 {
     public static function sayHello()
     {
-        return 'Good morning ';
+        return 'Good morning !';
     }
 }
